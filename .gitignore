@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Parquet & Data Files
+*.parquet
+*.csv
+*.tsv
+*.json
+
+# Docker
+Data/
+docker/mysql/
+docker/pyspark/.env
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
