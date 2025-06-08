@@ -1,0 +1,7 @@
+Enlace al repositorio:
+
+https://github.com/LucasRagaLara/etl-juegos-powerbi
+
+comando para clonar el repo:
+
+git clone https://github.com/LucasRagaLara/etl-juegos-powerbi.git
